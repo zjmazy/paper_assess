@@ -10,7 +10,7 @@ Theme = 'Organ-单位'
 except_organ = ['中国高等教育','中国高教研究','学位与研究生教育','高等教育研究','高等工程教育研究']
 page = Page()
 
-#Excel文件的地址
+#Excel文件的地址，可以改成绝对地址
 path = r'together.xls'
 
 #读取Excel文件中theme的信息
